@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table 1" max_length="40" name="sn_scoped_1_table_1" type="collection">
+        <element label="Field1" max_length="40" name="field1" type="string"/>
+        <element label="Field2" max_length="40" name="field2" type="string"/>
+    </element>
+</database>

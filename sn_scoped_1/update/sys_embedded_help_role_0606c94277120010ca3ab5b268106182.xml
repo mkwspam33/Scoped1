@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <claim/>
+        <order>1000</order>
+        <role display_value="sn_scoped_1.table_1_user" name="sn_scoped_1.table_1_user">4e06454277120010ca3ab5b26810616c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-13 17:33:33</sys_created_on>
+        <sys_id>0606c94277120010ca3ab5b268106182</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4e06454277120010ca3ab5b26810616c</sys_name>
+        <sys_package display_value="Scoped 1" source="sn_scoped_1">87d4cd0277120010ca3ab5b268106189</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped 1">87d4cd0277120010ca3ab5b268106189</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0606c94277120010ca3ab5b268106182</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-13 17:33:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
