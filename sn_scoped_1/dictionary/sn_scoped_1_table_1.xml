@@ -2,6 +2,6 @@
     <element label="Table 1" max_length="40" name="sn_scoped_1_table_1" sizeclass="0" type="collection">
         <element label="Field1" max_length="40" name="field1" type="string"/>
         <element label="Field2" max_length="40" name="field2" type="string"/>
-        <element label="Original Int" max_length="40" name="original_int" type="integer"/>
+        <element label="Original Int" max_length="40" name="original_int" type="string"/>
     </element>
 </database>
