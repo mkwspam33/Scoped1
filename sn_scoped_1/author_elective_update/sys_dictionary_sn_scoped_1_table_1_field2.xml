@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="field2" table="sn_scoped_1_table_1">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
+        <choice_field/>
+        <choice_table/>
+        <claim/>
+        <column_label>Field2</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>field2</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>sn_scoped_1_table_1</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-13 17:33:34</sys_created_on>
+        <sys_id>7ff5454277120010ca3ab5b268106167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field2</sys_name>
+        <sys_package display_value="Scoped 1" source="sn_scoped_1">87d4cd0277120010ca3ab5b268106189</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scoped 1">87d4cd0277120010ca3ab5b268106189</sys_scope>
+        <sys_update_name>sys_dictionary_sn_scoped_1_table_1_field2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-13 17:33:34</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scoped 1">87d4cd0277120010ca3ab5b268106189</application>
+        <file_path/>
+        <instance_id>evosandbox8080</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_dictionary_sn_scoped_1_table_1_field2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;
+    &lt;sys_dictionary action="INSERT_OR_UPDATE" element="field2" table="sn_scoped_1_table_1"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;array&gt;false&lt;/array&gt;
+        &lt;array_denormalized&gt;false&lt;/array_denormalized&gt;
+        &lt;attributes/&gt;
+        &lt;audit&gt;false&lt;/audit&gt;
+        &lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;
+        &lt;choice/&gt;
+        &lt;choice_field/&gt;
+        &lt;choice_table/&gt;
+        &lt;claim/&gt;
+        &lt;column_label&gt;Field2&lt;/column_label&gt;
+        &lt;comments/&gt;
+        &lt;create_roles/&gt;
+        &lt;default_value/&gt;
+        &lt;defaultsort/&gt;
+        &lt;delete_roles/&gt;
+        &lt;dependent/&gt;
+        &lt;dependent_on_field/&gt;
+        &lt;display&gt;false&lt;/display&gt;
+        &lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;
+        &lt;dynamic_creation_script/&gt;
+        &lt;dynamic_default_value/&gt;
+        &lt;dynamic_ref_qual/&gt;
+        &lt;element&gt;field2&lt;/element&gt;
+        &lt;element_reference&gt;false&lt;/element_reference&gt;
+        &lt;foreign_database/&gt;
+        &lt;function_definition/&gt;
+        &lt;function_field&gt;false&lt;/function_field&gt;
+        &lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;
+        &lt;mandatory&gt;false&lt;/mandatory&gt;
+        &lt;max_length&gt;40&lt;/max_length&gt;
+        &lt;name&gt;sn_scoped_1_table_1&lt;/name&gt;
+        &lt;next_element/&gt;
+        &lt;primary&gt;false&lt;/primary&gt;
+        &lt;read_only&gt;false&lt;/read_only&gt;
+        &lt;read_roles/&gt;
+        &lt;reference/&gt;
+        &lt;reference_cascade_rule/&gt;
+        &lt;reference_floats&gt;false&lt;/reference_floats&gt;
+        &lt;reference_key/&gt;
+        &lt;reference_qual/&gt;
+        &lt;reference_qual_condition/&gt;
+        &lt;reference_type/&gt;
+        &lt;sizeclass/&gt;
+        &lt;spell_check&gt;false&lt;/spell_check&gt;
+        &lt;staged&gt;false&lt;/staged&gt;
+        &lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2020-01-13 17:33:34&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;7ff5454277120010ca3ab5b268106167&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Field2&lt;/sys_name&gt;
+        &lt;sys_package display_value="Scoped 1" source="sn_scoped_1"&gt;87d4cd0277120010ca3ab5b268106189&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Scoped 1"&gt;87d4cd0277120010ca3ab5b268106189&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_dictionary_sn_scoped_1_table_1_field2&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2020-01-13 17:33:34&lt;/sys_updated_on&gt;
+        &lt;table_reference&gt;false&lt;/table_reference&gt;
+        &lt;text_index&gt;false&lt;/text_index&gt;
+        &lt;unique&gt;false&lt;/unique&gt;
+        &lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;
+        &lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;
+        &lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;
+        &lt;virtual&gt;false&lt;/virtual&gt;
+        &lt;widget/&gt;
+        &lt;write_roles/&gt;
+        &lt;xml_view&gt;false&lt;/xml_view&gt;
+    &lt;/sys_dictionary&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-913709281</payload_hash>
+        <record_name>Table 1.Field2</record_name>
+        <reverted_from/>
+        <source>04ad034977320010ca3ab5b26810615f</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 21:23:29</sys_created_on>
+        <sys_id>ecad034977320010ca3ab5b2681061d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170121630da0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 21:23:29</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>6cad0349e9320010accdca197fbb0bd6</update_guid>
+        <update_guid_history>6cad0349e9320010accdca197fbb0bd6:0,849d8f09cb32001050ed20c959d8f3df:-980274561,076e3281023200105619eeacaa604dc1:0,efdf5137b3220010b301e730da196db5:-980274561,aa9f1df3dc220010d79182ed765c0d4a:0,2fce55f396220010b8904db63c72a888:-980274561,a57d5973a122001087fdc8d916ed16e9:0,131d9d3343220010a1d1047a64303931:-980274561,a89d61663fa200101f3ae264fff6d1db:0,94de19ae22620010290910f83934c656:-980274561,2d0dd92ea9620010e16c39be69b9178c:0,c0fa8d22a5620010ae80fbf2ff34910b:-980274561,a49dd49145260010f4d3722be21c1e42:0,f41d5c51ae260010ae111b01caf34e87:-980274561,4377a7f0ba220010310ae442d18f6ba1:0,ab3763f0fc2200104e171de72e8b8c52:-980274561,8496ef70e522001081d2ece67e4acdfa:0,87266f308422001030730eb4b1ee73c1:-980274561,d4f1c728c5660010975901e612dd022a:0,72d14728b5660010514e33e70a13cc00:-980274561</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <claim/>
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-04 21:23:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>117b0e864fe8406089c75607a1101900</sys_id>
+        <sys_metadata>2cad034977320010ca3ab5b26810619d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field2</sys_name>
+        <sys_package display_value="Scoped 1" source="sn_scoped_1">87d4cd0277120010ca3ab5b268106189</sys_package>
+        <sys_parent display_value="Table 1">7cc5094277120010ca3ab5b268106194</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Scoped 1">87d4cd0277120010ca3ab5b268106189</sys_scope>
+        <sys_scope_delete display_value="">20f4efea079245c09ddcb33352b49c04</sys_scope_delete>
+        <sys_update_name>sys_dictionary_sn_scoped_1_table_1_field2</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_sn_scoped_1_table_1_field2">ecad034977320010ca3ab5b2681061d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-04 21:23:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
